@@ -1,0 +1,70 @@
+1.8.1
+
+- Update default skin
+- Update widget layout in mobile screen
+- Add hooks for child-theming flexibility
+
+1.7.5.1
+
+- Fix minor bug
+
+1.7.5
+
+- Update CSS heading (theme info)
+- Add Minor CSS enhancement
+- Update sidebar registering
+- Update title
+
+1.7.4
+
+- Fix comment output bug
+
+1.7.3
+
+- Add function override support for child theming
+
+1.7.2
+
+- Fix theme tag duplication in style header
+- Update fonts license information
+- Remove theme options redirect
+
+1.7.1
+
+- Fix theme options bug
+- Update theme license information
+
+
+1.7
+- Wide screen ready
+- Add Rundown Options
+	- Magazine style
+	- Excerpt limit
+	- Style options (default and classic)
+- Fix minor CSS bugs
+
+1.6.5 - 27 Feb
+- Title tag improvement for SEO friendly
+- Add custom searchform
+- Typography improvement
+- Post meta improvement
+- CSS improvements:
+	- Calendar widget
+	- Submit button
+	- Quote post format
+
+1.6.4 - 25 Nov 2012
+- Prev/next image links for images in gallery
+- Display "Comments are disabled" message in posts
+- CSS improvement:
+	- Calendar widget
+
+1.6.3 - 24 Nov 2012
+- Primary menu improvement
+- CSS improvement:
+	- Widget title becomes higher
+	- Search box becomes higher as widget title changes
+	- Comment form section (Fix layout when Si Captcha Comments and Subscribe to Comments plugins are used)
+
+1.6.2 - 4 Nov 2012
+- Release
