@@ -829,6 +829,7 @@ span.edit-link a{
 		max-width:89%;
 		font-style:italic;
 		font-size:70%;
+        text-align: center;
 	}
 	.wp-caption-text::before{
 		color:#999;
